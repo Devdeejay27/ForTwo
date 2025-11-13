@@ -18,7 +18,7 @@ A weather app making use of an open source API to get your location and differen
 
 **Other Tools:** Git, HTTP, Geocoding, Geolocator
 
-**App Animations:** Lottie animations
+**App Animations:** Lordicon animations
 
 **Open Souce API:** https://openweathermap.org/
 
