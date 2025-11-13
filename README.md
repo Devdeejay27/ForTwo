@@ -1,16 +1,51 @@
-# fortwo
+# 🚀 ForTwo
 
-A new Flutter project.
+# Description
 
-## Getting Started
+A weather app making use of an open source API to get your location and different animations depending on the weather conditions.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼️ Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Demo](assets/ForTwo.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧠 Tech Stack
+
+**Frontend:** Dart, Flutter
+
+**Other Tools:** Git, HTTP, Geocoding, Geolocator
+
+**App Animations:** Lottie animations
+
+**Open Souce API:** https://openweathermap.org/
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repo
+
+git clone https://github.com/devdeejay27/fortwo.git
+
+cd fortwo
+
+### 2. Install dependencies
+
+flutter clean
+
+flutter pub get
+
+### 3. Run the app in terminal
+
+flutter run
+
+## 👨‍💻 Author
+
+Chukwudumeje Obieli
+
+@devdeejay27
+
+📧 dum_obieli@yahoo.com
